@@ -62,7 +62,8 @@ print("{:.2f}".format(inf_matrix))
 
 
 ### Infinity Norm of a Matrix
-![Uploading image.png…]()
+![image](https://github.com/23000966/Norm-of-a-matrix/assets/153983364/867079de-58ae-40d8-86ac-0038f148e8c5)
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
