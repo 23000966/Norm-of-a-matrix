@@ -52,9 +52,8 @@ print("{:.2f}".format(inf_matrix))
 ```
 
 
+## output:
 
-```
-## Output:
 ### 1-Norm of a Matrix
 ![image](https://github.com/23000966/Norm-of-a-matrix/assets/153983364/3699936e-39f1-4992-8295-73d96dab7277)
 
